@@ -8,3 +8,5 @@
 6. Seis tareas
 7. Cinco tareas
 8. Seis tareas
+9. Nueve tareas
+10. Diez tareas
