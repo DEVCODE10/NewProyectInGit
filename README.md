@@ -4,3 +4,5 @@
 2. Dos tareas
 3. Tres tareas
 4. Cuatro tareas
+5. Cinco tareas
+6. Seis tareas
